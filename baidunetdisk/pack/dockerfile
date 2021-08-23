@@ -1,0 +1,3 @@
+FROM johnshine/baidunetdisk-crossover-vnc:latest
+EXPOSE 5901
+EXPOSE 6080

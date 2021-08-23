@@ -1,0 +1,16 @@
+{
+    "installType":"container",
+    "name":"baidunetdisk",
+    "installScript":["bash","install.sh"],
+    "uninstallScript":["bash","uninstall.sh"],
+    "configItems":[],
+    "installArgs":[
+      {
+        "name":"download path",
+        "type":"path",
+        "key":"--save",
+        "source":"cmd",
+        "desc":"download save path"
+      }
+    ]
+  }

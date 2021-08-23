@@ -1,0 +1,7 @@
+{
+    "app_name": "Baidunetdisk downloader",
+    "auto_start": false,
+    "type":"Container",
+    "container_name":"baidunetdisk_downloader",
+    "icon":"icon.png"
+  }
